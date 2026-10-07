@@ -1,0 +1,6 @@
+{
+  "name": "竞彩足球与皇冠网对冲计算器",
+  "description": "专业竞彩进球数与皇冠大小球、串关全包套利对冲计算器，支持返点设置、自由调配赔率与投注金额、历史投注保存及盈亏可视化分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
